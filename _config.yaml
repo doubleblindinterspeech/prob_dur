@@ -1,0 +1,5 @@
+title: Prob Dur
+description: Probably
+show_downloads: False
+plugins:
+- jekyll-remote-theme
