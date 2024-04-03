@@ -136,7 +136,8 @@ video {
 
 <summary>Prompt</summary>
 
-```
+
+```txt
 
 Take these sentence for example:
 
