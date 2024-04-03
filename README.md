@@ -135,13 +135,9 @@ video {
 <details>
 
 <summary>Prompt</summary>
-
-
-```txt
-
 Take these sentence for example:
 
-~~~
+```
 The prisoners were in due course transferred to Newgate, to be put upon their trial at the Central Criminal Court.
 They had to handcuff her by force against the most violent resistance, and still she raged and stormed,
 The Secret Service has attempted to perform this function through the activities of its Protective Research Section
@@ -159,21 +155,14 @@ might have been more alert in the Dallas motorcade if they had retired promptly 
 .
 .
 <100 sentences>
-~~~
+```
 
 Generate 100 sentences in a similar writing style. Talk about going to the zoo, going to a shopping centre or a mall and a day at the school. Make sure it looks like the text is from a similar speaker. Same conversational style try to match the speaker characteristics as much as you can.
-
-
-```
 
 </details>
 
 <details>
 <summary>Generated sentences</summary>
-
-```
-
-
 The family, in anticipation of a delightful day, set forth to the zoological gardens, a repository of nature's marvels.
 Upon entering the grand gates of the shopping centre, they were greeted by a cacophony of sounds, each store vying for attention.
 The majestic lion, king of the animal kingdom, lay in repose under the shade of an ancient oak, barely acknowledging the gathered spectators.
@@ -274,9 +263,6 @@ Reflections on the endangered species talk led to a school-wide initiative on su
 The zoo visit, once merely an outing, became a catalyst for a deeper understanding of biology, ecology, and environmental science.
 The shopping center excursion, too, shed light on the practical applications of mathematics, social studies, and economics.
 As the term progressed, the memories of the field trip lingered, a reminder of the day when the zoo and the mall became classrooms without walls.
-
-
-```
 </details>
 
 ### Ryan Speech
@@ -286,12 +272,9 @@ As the term progressed, the memories of the field trip lingered, a reminder of t
 
 <summary>Prompt</summary>
 
-```
-
-
 Take these sentence for example:
 
-~~~
+```
 No, my friends keep me company.
 It grows somewhat like the lily of the valley, but its height is about three feet.
 Do you want to add anything to the order?
@@ -310,12 +293,9 @@ I was at school in Canton Berne; it is a mother tongue to me.
 .
 .
 100 sentences
-~~~
+```
 
 Generate 100 sentences in a similar writing style. Talk about going to the zoo and going to a shopping centre or a mall. Make sure it looks like the text is from a similar speaker
-
-
-```
 
 </details>
 
@@ -323,9 +303,6 @@ Generate 100 sentences in a similar writing style. Talk about going to the zoo a
 <details>
 
 <summary>Generated sentences</summary>
-
-```
-
 
 The lions at the zoo roared loudly, as if they were greeting us personally upon our arrival.
 I couldn't help but marvel at the vibrant colors of the parrots, chatting away in their enclosure.
@@ -428,9 +405,6 @@ Homework club is a lifesaver, I thought, grateful for the extra help and the qui
 The science fair posters lined the hallway, each project a testament to the curiosity and hard work of my peers.
 What's your project about? I asked, intrigued by the innovative ideas on display.
 
-
-```
-
 </details>
 
 
@@ -442,12 +416,9 @@ What's your project about? I asked, intrigued by the innovative ideas on display
 
 <summary>Prompt</summary>
 
-```
-
-
 Take these sentence for example:
 
-~~~
+```
 ; , Finish at like six; , or maybe seven or eight; then we'd all go out, you know have a few drinks head out to a nightclub or something like that come home.
 ; a bit of a; kind of a short story rather than just one scene; So all the class we all got together, the base was because every time we went to a new class.
 ; , And then all of a sudden the cameras came on and Leonardo DiCaprio was like; Just sitting like this just blocking himself, ; , And we're like oh shit it's Leonardo DiCaprio And then he was literally just like, ;
@@ -460,20 +431,14 @@ people in the music industry, and; But I think I told you the story before but I
 .
 .
 total 100 sentences
-~~~
+```
 
 Generate 100 sentences in a similar conversational spontaneous style containing disfluencies, hesitations, repeats etc. With approximately similar lengths. Talk about going to the zoo, going to a shopping centre or a mall and talk about your day at the school.  Here ; is a breath and , is a pause use these too and generate syntactically similar sentences. Make it sound natural as one will do in conersational settings. Use fewer commas and fewer uh and uhm.
-
-
-```
 
 </details>
 
 <details>
   <summary>Generated sentences</summary>
-
-```
-
 
 ; I'm like, should we take photos? But my phone, it's dead, completely dead.
 ; And then, the elephants, they're huge, you know? Just massive.
@@ -576,8 +541,6 @@ Generate 100 sentences in a similar conversational spontaneous style containing 
 ; So, I'm home, and I'm starting on homework, but first, a snack, need some energy.
 ; And I'm working, and it's not so bad, feeling a little better about things.
 
-
-```
 </details>
 
 ### AptSpeech
@@ -586,11 +549,8 @@ Generate 100 sentences in a similar conversational spontaneous style containing 
 
 <summary>Prompt</summary>
 
-```
-
-
 Take these sentence for example:
-~~~
+```
 And you can assume that all of the openings are doorways that will have doors that can open and close- So,
 Yes, and any room can be anything you want it to be. It's really up to you guys to decide how to divide up the space. so that you're comfortable living there.
 so we'd like to talk a little bit about maybe some good or maybe some bad experiences you've had with roommates.
@@ -608,21 +568,15 @@ there's lots of options when you go and look in the- furniture store, you'll see
 .
 .
 100 sentences
-~~~
+```
 
 Generate 100 sentences in a similar writing style. Talk about going to the zoo and going to a shopping centre or a mall. Make sure it looks like the text is from a similar speaker. Same conversational style try to match the speaker characteristics as much as you can. Here ; is breath try to use it wisely. do not over use breathing (;) use it only where it would be appropriate.  Create sentences to train a TTS model so it should not be too long and not too short too something that can be 10-11 seconds.
-
-
-```
 
 </details>
 
 <details>
 
 <summary>Generated sentences</summary>
-
-```
-
 
 So, visiting the zoo is like stepping into a whole new world, isn't it? Each exhibit is a doorway to a different habitat.
 uh, And you know, you can decide to follow the map or just wander. It's really up to you to explore.
@@ -724,9 +678,6 @@ During physics, we marveled at the stars through the telescope, a blend of scien
 In the bustling cafeteria, amidst the chatter and laughter, I shared my latest poem with friends, finding beauty in the fusion of art and daily life.
 ; The math puzzle competition in the library was a thrilling race against time, where numbers met strategy in a test of wit and teamwork.
 ; As we cleaned up after the biology lab, discussing the day's shopping plans, it struck me how learning and leisure intertwine, enriching our lives in unexpected ways.
-
-
-```
 
 </details>
 

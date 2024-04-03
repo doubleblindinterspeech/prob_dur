@@ -1,6 +1,5 @@
 title: Should you use a probabilistic duration model in TTS? Probably! Especially for spontaneous speech
 description: Across four different corpora, stochastic duration modelling consistently improves probabilistic NAR TTS approaches, especially for spontaneous speech.
 show_downloads: False
-markdown: CommonMarkGhPages
 plugins:
 - jekyll-remote-theme
