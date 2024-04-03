@@ -729,3 +729,228 @@ In the bustling cafeteria, amidst the chatter and laughter, I shared my latest p
 ```
 
 </details>
+
+
+<script>
+
+function play_audio(filename, condition_name){
+      let audio_id = "audio-stimuli-from-listening-test";
+      audio = document.getElementById(audio_id);
+      audio_source = document.getElementById(audio_id + "-src");
+      stimulus_span = document.getElementById(audio_id + "-span");
+
+      audio.pause();
+      audio_source.src = filename;
+      stimulus_span.innerHTML = condition_name;
+      audio.load();
+      audio.play();
+}
+</script>
+
+
+# Stimuli from the listening test
+
+<p>Currently loaded stimulus: <span id="audio-stimuli-from-listening-test-span" style="font-weight: bold;"> FS2-LJ DET 1</span></p>
+<p>Audio player: </p>
+<audio id="audio-stimuli-from-listening-test" controls="">
+    <source id="audio-stimuli-from-listening-test-src" src="stimuli/FS2/LJ/DET_1.wav" type="audio/wav" />
+</audio>
+
+## Fast Speech 2 (FS2)
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky" colspan=2>LJ</th>
+    <th class="tg-0pky" colspan=2>RS</th>
+    <th class="tg-0pky" colspan=2>TSGD2</th>
+    <th class="tg-0pky" colspan=2>AptS</th>
+  </tr>
+  <tr>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/LJ/DET_1.wav', 'FS2-LJ DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/LJ/FM_1.wav', 'FS2-LJ FM 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/RS/DET_1.wav', 'FS2-RS DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/RS/FM_1.wav', 'FS2-RS FM 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/TSGD2/DET_1.wav', 'FS2-TSGD2 DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/TSGD2/FM_1.wav', 'FS2-TSGD2 FM 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/AptS/DET_1.wav', 'FS2-AptS DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/AptS/FM_1.wav', 'FS2-AptS FM 1')" /> 
+      </center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/LJ/DET_2.wav', 'FS2-LJ DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/LJ/FM_2.wav', 'FS2-LJ FM 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/RS/DET_2.wav', 'FS2-RS DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/RS/FM_2.wav', 'FS2-RS FM 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/TSGD2/DET_2.wav', 'FS2-TSGD2 DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/TSGD2/FM_2.wav', 'FS2-TSGD2 FM 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/AptS/DET_2.wav', 'FS2-AptS DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/AptS/FM_2.wav', 'FS2-AptS FM 2')" /> 
+      </center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/LJ/DET_3.wav', 'FS2-LJ DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/LJ/FM_3.wav', 'FS2-LJ FM 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/RS/DET_3.wav', 'FS2-RS DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/RS/FM_3.wav', 'FS2-RS FM 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/TSGD2/DET_3.wav', 'FS2-TSGD2 DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/TSGD2/FM_3.wav', 'FS2-TSGD2 FM 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/AptS/DET_3.wav', 'FS2-AptS DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/AptS/FM_3.wav', 'FS2-AptS FM 3')" /> 
+      </center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/LJ/DET_4.wav', 'FS2-LJ DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/LJ/FM_4.wav', 'FS2-LJ FM 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/RS/DET_4.wav', 'FS2-RS DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/RS/FM_4.wav', 'FS2-RS FM 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/TSGD2/DET_4.wav', 'FS2-TSGD2 DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/TSGD2/FM_4.wav', 'FS2-TSGD2 FM 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/AptS/DET_4.wav', 'FS2-AptS DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/FS2/AptS/FM_4.wav', 'FS2-AptS FM 4')" /> 
+      </center>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+## VITS
+
+
+## Matcha-TTS
