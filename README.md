@@ -128,6 +128,12 @@ video {
 
 ## Corpus
 <table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky" colspan="2">Read</th>
+    <th class="tg-0pky" colspan="2">Spontaneous</th>
+  </tr>
+</thead>
 <tbody>
   <tr>
     <td>
