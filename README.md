@@ -137,25 +137,27 @@ video {
 <summary>Prompt</summary>
 Take these sentence for example:
 
-```
-The prisoners were in due course transferred to Newgate, to be put upon their trial at the Central Criminal Court.
-They had to handcuff her by force against the most violent resistance, and still she raged and stormed,
-The Secret Service has attempted to perform this function through the activities of its Protective Research Section
-But the affair still remained a profound mystery. No light was thrown upon it till, towards the end of March,
-Yet the public opinion of the whole body seems to have checked dissipation.
-the Presidential limousine arrived at the emergency entrance of the Parkland Hospital at about twelve:thirty-five p.m.
-Oswald was arrested and jailed by the New Orleans Police Department for disturbing the peace, in connection with a street fight which broke out when he was accosted
-gaming of all sorts should be peremptorily forbidden under heavy pains and penalties.
-we have reached into the heart of the problem which is to provide such annual earnings for the lowest paid worker as will meet his minimum needs.
-it had established periodic regular review of the status of four hundred individuals;
-who was one of the first witnesses to alert the police to the Depository as the source of the shots, as has been discussed in chapter three.
-were governed by rules which they themselves had framed, and under which subscriptions were levied
-might have been more alert in the Dallas motorcade if they had retired promptly in Fort Worth.
-.
-.
-.
-<100 sentences>
-```
+<br/>
+``` <br/>
+The prisoners were in due course transferred to Newgate, to be put upon their trial at the Central Criminal Court. <br/>
+They had to handcuff her by force against the most violent resistance, and still she raged and stormed, <br/>
+The Secret Service has attempted to perform this function through the activities of its Protective Research Section <br/>
+But the affair still remained a profound mystery. No light was thrown upon it till, towards the end of March, 
+Yet the public opinion of the whole body seems to have checked dissipation. <br/>
+the Presidential limousine arrived at the emergency entrance of the Parkland Hospital at about twelve:thirty-five p.m. <br/>
+Oswald was arrested and jailed by the New Orleans Police Department for disturbing the peace, in connection with a street fight which broke out when he was accosted <br/>
+gaming of all sorts should be peremptorily forbidden under heavy pains and penalties. <br/>
+we have reached into the heart of the problem which is to provide such annual earnings for the lowest paid worker as will meet his minimum needs. <br/>
+it had established periodic regular review of the status of four hundred individuals; <br/>
+who was one of the first witnesses to alert the police to the Depository as the source of the shots, as has been discussed in chapter three. <br/>
+were governed by rules which they themselves had framed, and under which subscriptions were levied <br/>
+might have been more alert in the Dallas motorcade if they had retired promptly in Fort Worth. <br/>
+. <br/>
+. <br/>
+. <br/>
+100 sentences <br/>
+<br/>
+``` <br/>
 
 Generate 100 sentences in a similar writing style. Talk about going to the zoo, going to a shopping centre or a mall and a day at the school. Make sure it looks like the text is from a similar speaker. Same conversational style try to match the speaker characteristics as much as you can.
 
