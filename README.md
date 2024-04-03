@@ -137,6 +137,7 @@ video {
 <summary>Prompt</summary>
 
 ```
+
 Take these sentence for example:
 
 ~~~
@@ -160,6 +161,8 @@ might have been more alert in the Dallas motorcade if they had retired promptly 
 ~~~
 
 Generate 100 sentences in a similar writing style. Talk about going to the zoo, going to a shopping centre or a mall and a day at the school. Make sure it looks like the text is from a similar speaker. Same conversational style try to match the speaker characteristics as much as you can.
+
+
 ```
 
 </details>
@@ -168,6 +171,8 @@ Generate 100 sentences in a similar writing style. Talk about going to the zoo, 
 <summary>Generated sentences</summary>
 
 ```
+
+
 The family, in anticipation of a delightful day, set forth to the zoological gardens, a repository of nature's marvels.
 Upon entering the grand gates of the shopping centre, they were greeted by a cacophony of sounds, each store vying for attention.
 The majestic lion, king of the animal kingdom, lay in repose under the shade of an ancient oak, barely acknowledging the gathered spectators.
@@ -268,6 +273,8 @@ Reflections on the endangered species talk led to a school-wide initiative on su
 The zoo visit, once merely an outing, became a catalyst for a deeper understanding of biology, ecology, and environmental science.
 The shopping center excursion, too, shed light on the practical applications of mathematics, social studies, and economics.
 As the term progressed, the memories of the field trip lingered, a reminder of the day when the zoo and the mall became classrooms without walls.
+
+
 ```
 </details>
 
@@ -279,6 +286,8 @@ As the term progressed, the memories of the field trip lingered, a reminder of t
 <summary>Prompt</summary>
 
 ```
+
+
 Take these sentence for example:
 
 ~~~
@@ -304,6 +313,7 @@ I was at school in Canton Berne; it is a mother tongue to me.
 
 Generate 100 sentences in a similar writing style. Talk about going to the zoo and going to a shopping centre or a mall. Make sure it looks like the text is from a similar speaker
 
+
 ```
 
 </details>
@@ -314,6 +324,8 @@ Generate 100 sentences in a similar writing style. Talk about going to the zoo a
 <summary>Generated sentences</summary>
 
 ```
+
+
 The lions at the zoo roared loudly, as if they were greeting us personally upon our arrival.
 I couldn't help but marvel at the vibrant colors of the parrots, chatting away in their enclosure.
 Do you think the elephants enjoy painting? I asked, watching one create a beautiful piece with its trunk.
@@ -414,6 +426,8 @@ As the afternoon sun cast long shadows, I noticed the beauty of the campus, with
 Homework club is a lifesaver, I thought, grateful for the extra help and the quiet space to study.
 The science fair posters lined the hallway, each project a testament to the curiosity and hard work of my peers.
 What's your project about? I asked, intrigued by the innovative ideas on display.
+
+
 ```
 
 </details>
@@ -428,6 +442,8 @@ What's your project about? I asked, intrigued by the innovative ideas on display
 <summary>Prompt</summary>
 
 ```
+
+
 Take these sentence for example:
 
 ~~~
@@ -447,6 +463,7 @@ total 100 sentences
 
 Generate 100 sentences in a similar conversational spontaneous style containing disfluencies, hesitations, repeats etc. With approximately similar lengths. Talk about going to the zoo, going to a shopping centre or a mall and talk about your day at the school.  Here ; is a breath and , is a pause use these too and generate syntactically similar sentences. Make it sound natural as one will do in conersational settings. Use fewer commas and fewer uh and uhm.
 
+
 ```
 
 </details>
@@ -455,6 +472,8 @@ Generate 100 sentences in a similar conversational spontaneous style containing 
   <summary>Generated sentences</summary>
 
 ```
+
+
 ; I'm like, should we take photos? But my phone, it's dead, completely dead.
 ; And then, the elephants, they're huge, you know? Just massive.
 ; We're walking, and suddenly, this peacock just shows up, fanning its feathers.
@@ -555,6 +574,8 @@ Generate 100 sentences in a similar conversational spontaneous style containing 
 ; But then, I remember, I have homework in three subjects, no rest for the weary.
 ; So, I'm home, and I'm starting on homework, but first, a snack, need some energy.
 ; And I'm working, and it's not so bad, feeling a little better about things.
+
+
 ```
 </details>
 
@@ -565,6 +586,8 @@ Generate 100 sentences in a similar conversational spontaneous style containing 
 <summary>Prompt</summary>
 
 ```
+
+
 Take these sentence for example:
 ~~~
 And you can assume that all of the openings are doorways that will have doors that can open and close- So,
@@ -588,6 +611,7 @@ there's lots of options when you go and look in the- furniture store, you'll see
 
 Generate 100 sentences in a similar writing style. Talk about going to the zoo and going to a shopping centre or a mall. Make sure it looks like the text is from a similar speaker. Same conversational style try to match the speaker characteristics as much as you can. Here ; is breath try to use it wisely. do not over use breathing (;) use it only where it would be appropriate.  Create sentences to train a TTS model so it should not be too long and not too short too something that can be 10-11 seconds.
 
+
 ```
 
 </details>
@@ -597,6 +621,8 @@ Generate 100 sentences in a similar writing style. Talk about going to the zoo a
 <summary>Generated sentences</summary>
 
 ```
+
+
 So, visiting the zoo is like stepping into a whole new world, isn't it? Each exhibit is a doorway to a different habitat.
 uh, And you know, you can decide to follow the map or just wander. It's really up to you to explore.
 ; So we'd like to talk about maybe some memorable or maybe some forgettable experiences you've had at the zoo.
@@ -697,6 +723,7 @@ During physics, we marveled at the stars through the telescope, a blend of scien
 In the bustling cafeteria, amidst the chatter and laughter, I shared my latest poem with friends, finding beauty in the fusion of art and daily life.
 ; The math puzzle competition in the library was a thrilling race against time, where numbers met strategy in a test of wit and teamwork.
 ; As we cleaned up after the biology lab, discussing the day's shopping plans, it struck me how learning and leisure intertwine, enriching our lives in unexpected ways.
+
 
 ```
 
