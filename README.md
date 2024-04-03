@@ -913,6 +913,386 @@ function play_audio(filename, condition_name){
 
 
 ## VITS
-
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky" colspan=2>LJ</th>
+    <th class="tg-0pky" colspan=2>RS</th>
+    <th class="tg-0pky" colspan=2>TSGD2</th>
+    <th class="tg-0pky" colspan=2>AptS</th>
+  </tr>
+  <tr>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/LJ/DET_1.wav', 'VITS-LJ DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/LJ/FM_1.wav', 'VITS-LJ FM 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/RS/DET_1.wav', 'VITS-RS DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/RS/FM_1.wav', 'VITS-RS FM 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/TSGD2/DET_1.wav', 'VITS-TSGD2 DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/TSGD2/FM_1.wav', 'VITS-TSGD2 FM 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/AptS/DET_1.wav', 'VITS-AptS DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/AptS/FM_1.wav', 'VITS-AptS FM 1')" /> 
+      </center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/LJ/DET_2.wav', 'VITS-LJ DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/LJ/FM_2.wav', 'VITS-LJ FM 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/RS/DET_2.wav', 'VITS-RS DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/RS/FM_2.wav', 'VITS-RS FM 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/TSGD2/DET_2.wav', 'VITS-TSGD2 DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/TSGD2/FM_2.wav', 'VITS-TSGD2 FM 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/AptS/DET_2.wav', 'VITS-AptS DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/AptS/FM_2.wav', 'VITS-AptS FM 2')" /> 
+      </center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/LJ/DET_3.wav', 'VITS-LJ DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/LJ/FM_3.wav', 'VITS-LJ FM 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/RS/DET_3.wav', 'VITS-RS DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/RS/FM_3.wav', 'VITS-RS FM 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/TSGD2/DET_3.wav', 'VITS-TSGD2 DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/TSGD2/FM_3.wav', 'VITS-TSGD2 FM 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/AptS/DET_3.wav', 'VITS-AptS DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/AptS/FM_3.wav', 'VITS-AptS FM 3')" /> 
+      </center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/LJ/DET_4.wav', 'VITS-LJ DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/LJ/FM_4.wav', 'VITS-LJ FM 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/RS/DET_4.wav', 'VITS-RS DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/RS/FM_4.wav', 'VITS-RS FM 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/TSGD2/DET_4.wav', 'VITS-TSGD2 DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/TSGD2/FM_4.wav', 'VITS-TSGD2 FM 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/AptS/DET_4.wav', 'VITS-AptS DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/VITS/AptS/FM_4.wav', 'VITS-AptS FM 4')" /> 
+      </center>
+    </td>
+  </tr>
+</tbody>
+</table>
 
 ## Matcha-TTS
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky" colspan=2>LJ</th>
+    <th class="tg-0pky" colspan=2>RS</th>
+    <th class="tg-0pky" colspan=2>TSGD2</th>
+    <th class="tg-0pky" colspan=2>AptS</th>
+  </tr>
+  <tr>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+    <th class="tg-0pky">DET</th>
+    <th class="tg-0pky">FM</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/LJ/DET_1.wav', 'Matcha-LJ DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/LJ/FM_1.wav', 'Matcha-LJ FM 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/RS/DET_1.wav', 'Matcha-RS DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/RS/FM_1.wav', 'Matcha-RS FM 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/TSGD2/DET_1.wav', 'Matcha-TSGD2 DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/TSGD2/FM_1.wav', 'Matcha-TSGD2 FM 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/AptS/DET_1.wav', 'Matcha-AptS DET 1')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/AptS/FM_1.wav', 'Matcha-AptS FM 1')" /> 
+      </center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/LJ/DET_2.wav', 'Matcha-LJ DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/LJ/FM_2.wav', 'Matcha-LJ FM 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/RS/DET_2.wav', 'Matcha-RS DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/RS/FM_2.wav', 'Matcha-RS FM 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/TSGD2/DET_2.wav', 'Matcha-TSGD2 DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/TSGD2/FM_2.wav', 'Matcha-TSGD2 FM 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/AptS/DET_2.wav', 'Matcha-AptS DET 2')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/AptS/FM_2.wav', 'Matcha-AptS FM 2')" /> 
+      </center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/LJ/DET_3.wav', 'Matcha-LJ DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/LJ/FM_3.wav', 'Matcha-LJ FM 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/RS/DET_3.wav', 'Matcha-RS DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/RS/FM_3.wav', 'Matcha-RS FM 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/TSGD2/DET_3.wav', 'Matcha-TSGD2 DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/TSGD2/FM_3.wav', 'Matcha-TSGD2 FM 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/AptS/DET_3.wav', 'Matcha-AptS DET 3')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/AptS/FM_3.wav', 'Matcha-AptS FM 3')" /> 
+      </center>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/LJ/DET_4.wav', 'Matcha-LJ DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/LJ/FM_4.wav', 'Matcha-LJ FM 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/RS/DET_4.wav', 'Matcha-RS DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/RS/FM_4.wav', 'Matcha-RS FM 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/TSGD2/DET_4.wav', 'Matcha-TSGD2 DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/TSGD2/FM_4.wav', 'Matcha-TSGD2 FM 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/AptS/DET_4.wav', 'Matcha-AptS DET 4')" /> 
+      </center>
+    </td>
+    <td>
+      <center>
+        <img src="play_button_black.png" height="40" style="cursor: pointer;" onclick="play_audio('stimuli/Matcha/AptS/FM_4.wav', 'Matcha-AptS FM 4')" /> 
+      </center>
+    </td>
+  </tr>
+</tbody>
+</table>
